@@ -1,6 +1,6 @@
 import React from 'react';
 
-const App = ({children}) => {
+const App = ({ children }) => {
   return (
     <div className="container">
       {children}
